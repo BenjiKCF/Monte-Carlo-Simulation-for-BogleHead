@@ -3,3 +3,5 @@ Monte Carlo Simulation for BogleHead. This is a tool for all boglehead in Hong K
 
 Unlike traditional Monte Carlo simulation for exchange traded fund or index. This is created especially for Nonresident alien with no US tax treaty.
 Furthermore, I will include some Chiense index like CSI300 and HSI. In addition, I will include the taxation for Ireland-domiciled ETFs so that we can reduce the withholding tax from 30% to 15% of dividend.
+
+Based on a few sources, Ireland does not withhold any taxes on capital gain or dividends paid by Ireland-domiciled UCITS ETFs. That seems to be true for Vanguard and iShares Dublin.
